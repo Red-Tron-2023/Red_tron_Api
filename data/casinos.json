@@ -1,0 +1,26 @@
+[
+    {
+        "name":"GANA EN CASA",
+        "imageUrl":"http://eugenioaragon.com.ar/redtron/ganaencasa.jpg"
+    },
+
+    {
+        "name":"KONABET",
+        "imageUrl":"http://eugenioaragon.com.ar/redtron/konabet.png"
+    },
+
+    {
+        "name":"MEGAFARON",
+        "imageUrl":"http://eugenioaragon.com.ar/redtron/megafaron.jpg"
+    },
+
+    {
+        "name":"SAFARI",
+        "imageUrl":"http://eugenioaragon.com.ar/redtron/safari.png"
+    },
+
+    {
+        "name":"ZEUS",
+        "imageUrl":"http://eugenioaragon.com.ar/redtron/zeus.jpg"
+    }
+]
